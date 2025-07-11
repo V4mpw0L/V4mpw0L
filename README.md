@@ -1,6 +1,6 @@
 <h1 align="center">🧛 Hi, I'm <span style="color:#00ffff">V4mpw0L</span> 👋</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=v4mpw0l&label=Profile%20views&color=00ffff&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=v4mpw0l&label=Profile%20views&color=793e67&style=flat-square" alt="Profile views" />
   <a href="https://twitter.com/v4mpw0l" target="_blank">
     <img src="https://img.shields.io/twitter/follow/v4mpw0l?logo=twitter&style=flat-square" alt="Twitter Follow" />
   </a>
