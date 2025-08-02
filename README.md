@@ -75,13 +75,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&pause=1000&color=00FF99&width=500&lines=Access+Granted;System+Online;Deploying+Scripts;Monitoring+Targets;Intrusion+Successful" />
 </p>
-
-<!-- GIF HACKER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
-</p>
-
-<!-- MATRIX RAIN ANIMATION -->
-<p align="center">
-  <img src="https://i.gifer.com/7efs.gif" width="80%" style="border-radius:10px;"/>
-</p>
