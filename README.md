@@ -28,7 +28,7 @@
 ## 🦇 Sobre mim
 
 ```yaml
-🧛 Nome: V4mpw0l (vampire + wolf)
+🧛 Nome: V4mpw0l
 🩸 Stack: Full Stack / Segurança / GameDev / Automação
 🌑 Base: Cyberspace, Underworld
 ⚡ Motto: "O código é sangue, e o sangue é código."
