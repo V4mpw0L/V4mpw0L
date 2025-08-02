@@ -1,6 +1,6 @@
 <!-- DARK BLOOD VAMPIRE MATRIX BG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&pause=1200&color=FF0038&background=0B081700&center=true&vCenter=true&width=580&lines=%F0%9F%A7%9B%E2%80%8D%E2%99%82%EF%B8%8F+V4mpw0l%3A+vampire+%2B+wolf+DNA;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Specialist+%F0%9F%94%92;GameDev+Dark+Neon+UI;Automation+and+AI;Stay+Vampire%2C+Stay+Hacker+%F0%9F%A6%88" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&pause=1200&color=FF0038&background=0B081700&center=true&vCenter=true&width=580&lines=%F0%9F%A7%9B%E2%80%8D%E2%99%82%EF%B8%8F+V4mpw0l%3A+x+%2B+x+DNA;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Specialist+%F0%9F%94%92;GameDev+Dark+Neon+UI;Automation+and+AI;Stay+Vampire%2C+Stay+Hacker+%F0%9F%A6%88" />
 </p>
 
 <br/>
@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/10349223?v=4" width="125" style="border-radius: 50%;box-shadow: 0 0 32px #ff00383a;">
   <br/><br/>
-  <b>V4mpw0l</b>
+  <b>V4mpw0L</b>
   <br/>
   <span style="color:#ff0038"><i>Full Stack Developer • Cybersecurity • GameDev • Automation</i></span>
   <br/>
@@ -28,7 +28,7 @@
 ## 🦇 Sobre mim
 
 ```yaml
-🧛 Nome: V4mpw0l
+🧛 Nome: V4mpw0L
 🩸 Stack: Full Stack / Segurança / GameDev / Automação
 🌑 Base: Cyberspace, Underworld
 ⚡ Motto: "O código é sangue, e o sangue é código."
@@ -150,5 +150,5 @@
   <img src="https://media.giphy.com/media/7TtvTUMm9mp20/giphy.gif" width="90"/>
   <br/>
   <b>Stay Vampire. Stay Hacker.<br>
-  <span style="color:#ff0038">V4mpw0l 🧛‍♂️🐺</span></b>
+  <span style="color:#ff0038">V4mpw0l 🧛‍♂️</span></b>
 </div>
