@@ -81,6 +81,10 @@
 ---
 
 ## 🩸 Terminal Hacker Vampire
+<!-- TERMINAL ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&pause=1100&color=FF0038&width=500&lines=Access+Granted;System+Online;Vampire+Wolf+Mode+Active;Intrusion+Successful;Stay+Hacker,+Stay+Vampire" />
+</p>
 
 <details>
   <summary>Clique aqui para comandos secretos (portfolio site)</summary>
@@ -139,10 +143,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="width:95%;max-width:750px;opacity:0.22;" />
 </p>
 
-<!-- TERMINAL ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&pause=1100&color=FF0038&width=500&lines=Access+Granted;System+Online;Vampire+Wolf+Mode+Active;Intrusion+Successful;Stay+Hacker,+Stay+Vampire" />
-</p>
 
 ---
 
