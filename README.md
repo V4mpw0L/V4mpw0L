@@ -1,3 +1,9 @@
+<!-- SNAKE ANIMATION BLOOD -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="width:95%;max-width:750px;opacity:0.22;" />
+</p>
+
+
 <!-- DARK BLOOD VAMPIRE MATRIX BG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&pause=1200&color=FF0038&background=0B081700&center=true&vCenter=true&width=580&lines=%F0%9F%A7%9B%E2%80%8D%E2%99%82%EF%B8%8F+V4mpw0l%3A+x+%2B+x+DNA;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Specialist+%F0%9F%94%92;GameDev+Dark+Neon+UI;Automation+and+AI;Stay+Vampire%2C+Stay+Hacker+%F0%9F%A6%88" />
@@ -135,14 +141,6 @@
     <img src="https://img.shields.io/badge/github-v4mpw0l-0b0817?style=for-the-badge&logo=github&logoColor=ff0038"/>
   </a>
 </p>
-
----
-
-<!-- SNAKE ANIMATION BLOOD -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="width:95%;max-width:750px;opacity:0.22;" />
-</p>
-
 
 ---
 
