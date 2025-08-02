@@ -121,10 +121,10 @@
   <a href="mailto:tiagonzk@gmail.com">
     <img src="https://img.shields.io/badge/email-ff0038?style=for-the-badge&logo=gmail&logoColor=fff"/>
   </a>
-  <a href="https://t.me/seuuser">
+  <a href="https://t.me/v4mpw0l">
     <img src="https://img.shields.io/badge/telegram-darkred?style=for-the-badge&logo=telegram&logoColor=fff"/>
   </a>
-  <a href="https://linkedin.com/in/seuuser">
+  <a href="https://linkedin.com/in/v4mpw0l">
     <img src="https://img.shields.io/badge/linkedin-ff0038?style=for-the-badge&logo=linkedin&logoColor=fff"/>
   </a>
   <a href="https://github.com/v4mpw0l">
