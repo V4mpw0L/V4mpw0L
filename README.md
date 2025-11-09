@@ -1,59 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header" width="100%"/>
 
-### **Tiago Cardoso**
+<br/>
 
-CEO & Founder @ **Gennisys** | Full Stack Developer
+<!-- Nome com efeito typing -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=TIAGO+CARDOSO;CEO+%26+DEVELOPER" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=v4mpw0l&label=Views&color=10b981&style=flat" alt="Profile Views"/>
+<br/>
 
----
-
-```yaml
-role: CEO & Developer
-focus: Innovation & Security
-location: San Diego, US
+```ascii
+┌──────────────────────────┐
+│  CEO @ Gennisys          │
+│  Full Stack Developer    │
+│  Security Specialist     │
+│  📍 San Diego, US        │
+└──────────────────────────┘
 ```
 
----
+<img src="https://komarev.com/ghpvc/?username=v4mpw0l&label=VISITORS&color=10b981&style=for-the-badge" alt="Views"/>
 
-### **Expertise**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<br/>
 
 ---
 
-### **Analytics**
+### ⚡ **TECH STACK**
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=v4mpw0l&show_icons=true&theme=dark&bg_color=0f172a&title_color=10b981&icon_color=059669&text_color=e2e8f0&border_color=374151&hide_border=true&count_private=true" alt="Stats"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v4mpw0l&layout=compact&theme=dark&bg_color=0f172a&title_color=10b981&text_color=e2e8f0&border_color=374151&hide_border=true" alt="Languages"/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br/>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br/>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br/>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+<br/>Flutter
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br/>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br/>Next.js
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br/>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br/>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br/>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br/>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+<br/>Vue.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br/>Git
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=v4mpw0l&theme=dark&background=0f172a&stroke=374151&ring=10b981&fire=059669&currStreakNum=e2e8f0&currStreakLabel=10b981&dates=94a3b8&hide_border=true" alt="Streak"/>
+<br/>
 
 ---
 
-| Projects | Security Audits | Clients | Efficiency Gain |
-|:--------:|:---------------:|:-------:|:---------------:|
-| **50+** | **100+** | **200+** | **300%** |
+### 📊 **STATS**
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=v4mpw0l&show_icons=true&theme=radical&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&border_color=10b981&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=v4mpw0l&theme=radical&background=0d1117&stroke=10b981&ring=10b981&fire=059669&currStreakNum=c9d1d9&currStreakLabel=10b981&sideNums=c9d1d9&sideLabels=10b981&dates=8b949e&border=10b981&border_radius=10" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v4mpw0l&layout=compact&theme=radical&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&border_color=10b981&border_radius=10&hide=html,css" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=v4mpw0l&bg_color=0d1117&color=10b981&line=059669&point=10b981&area=true&hide_border=false&border_color=10b981&radius=10" alt="Activity Graph"/>
+
+<br/>
 
 ---
 
-### **Connect**
+### 🎯 **IMPACT**
 
-<a href="mailto:info@gennisys.com"><img src="https://img.shields.io/badge/Email-10b981?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/v4mpw0l"><img src="https://img.shields.io/badge/LinkedIn-059669?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://t.me/v4mpw0l"><img src="https://img.shields.io/badge/Telegram-047857?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/-50+-10b981?style=for-the-badge&labelColor=0d1117" />
+<br/><sub><b>PROJECTS</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/-100+-059669?style=for-the-badge&labelColor=0d1117" />
+<br/><sub><b>SECURITY AUDITS</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/-200+-047857?style=for-the-badge&labelColor=0d1117" />
+<br/><sub><b>CLIENTS</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/-300%25-065f46?style=for-the-badge&labelColor=0d1117" />
+<br/><sub><b>EFFICIENCY</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
+### 🔗 **CONNECT**
+
+<a href="mailto:info@gennisys.com">
+<img src="https://img.shields.io/badge/EMAIL-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/v4mpw0l">
+<img src="https://img.shields.io/badge/LINKEDIN-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+</a>
+<a href="https://t.me/v4mpw0l">
+<img src="https://img.shields.io/badge/TELEGRAM-047857?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram"/>
+</a>
+
+<br/><br/>
+
+```text
+"Building tomorrow's solutions with today's code."
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 
 </div>
