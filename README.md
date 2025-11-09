@@ -125,23 +125,47 @@
 
 ### 🔗 **CONNECT**
 
+<table align="center">
+<tr>
+<td align="center" width="200">
 <a href="mailto:info@gennisys.com">
-<img src="https://img.shields.io/badge/EMAIL-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/v4mpw0l">
-<img src="https://img.shields.io/badge/LINKEDIN-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-</a>
-<a href="https://t.me/v4mpw0l">
-<img src="https://img.shields.io/badge/TELEGRAM-047857?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram"/>
-</a>
-
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"/>
 <br/><br/>
+<img src="https://img.shields.io/badge/info@gennisys.com-10b981?style=flat&labelColor=0d1117" alt="Email Address"/>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://linkedin.com/in/v4mpw0l">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/@v4mpw0l-059669?style=flat&labelColor=0d1117" alt="LinkedIn Handle"/>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://t.me/v4mpw0l">
+<img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="Telegram"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/@v4mpw0l-047857?style=flat&labelColor=0d1117" alt="Telegram Handle"/>
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
 
 ```text
 "Building tomorrow's solutions with today's code."
 ```
 
 <br/>
+
+<!-- GENNISYS 3D Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=2000&pause=500&color=10B981&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+GENNISYS+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%3E+Mobile+%7C+Web+%7C+Security+%3C;━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Gennisys Banner"/>
+
+<!-- Animated Matrix Effect -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 
