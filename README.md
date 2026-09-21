@@ -12,14 +12,14 @@
 ```ascii
 ┌─────────────────────────────────────────────────────────────┐
 │  Tiago Cardoso (v4mpw0l)                                    │
-│  Founder & Systems Architect @ Gennisys Studio              │
+│  Founder & Systems Architect @ Syscorv Labs              │
 │  Engineering High-Performance & Sovereign Digital Systems   │
 │  🇧🇷 Brazil  •  🇺🇸 Global Operations                         │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 <p align="center">
-  <a href="https://gennisys.com"><img src="https://img.shields.io/badge/STUDIO-GENNISYS.COM-059669?style=for-the-badge&logo=electron&logoColor=white&labelColor=0b0d10" alt="Gennisys Studio"/></a>
+  <a href="https://syscorv.com"><img src="https://img.shields.io/badge/STUDIO-SYSCORV.COM-059669?style=for-the-badge&logo=electron&logoColor=white&labelColor=0b0d10" alt="Syscorv Labs"/></a>
   &nbsp;
   <a href="https://tiagocardoso.dev"><img src="https://img.shields.io/badge/PORTAL-TIAGOCARDOSO.DEV-06b6d4?style=for-the-badge&logo=safari&logoColor=white&labelColor=0b0d10" alt="Personal Portal"/></a>
 </p>
@@ -96,7 +96,7 @@
 <table>
 <tr>
 <td width="100%" align="center">
-<h3>🏛️ <a href="https://gennisys.com">Gennisys Studio</a></h3>
+<h3>🏛️ <a href="https://syscorv.com">Syscorv Labs</a></h3>
 <p>Independent software and digital engineering atelier crafting sovereign tools, procedural simulations, and proprietary applications.</p>
 <sub><b>Focus:</b> High-Performance Software • Systems Architecture • Local-First Cryptography</sub>
 </td>
@@ -110,8 +110,8 @@
 ### 🔗 **COMMUNICATIONS & SECURE CHANNELS**
 
 <p align="center">
-  <a href="mailto:info@gennisys.com">
-    <img src="https://img.shields.io/badge/EMAIL-info%40gennisys.com-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0d10" alt="Email"/>
+  <a href="mailto:contact@syscorv.com">
+    <img src="https://img.shields.io/badge/EMAIL-contact%40syscorv.com-059669?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0d10" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/v4mpw0l">
